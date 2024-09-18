@@ -1,9 +1,9 @@
 <h1 align="center">Hello world 👋, I'm Francesca</h1>
 <h3 align="center">A passionate junior full-stack developer, formerly working in Central London Property.</h3>
 
-- 🔭 I’m currently working on [A Meal Planning Website](https://github.com/franm198/recipe-filter-api-project)
+- 🔭 I’m currently working on [A Wine Filter Website](https://github.com/franm198/recipe-filter-api-project)
 
-- 🌱 I’m currently learning **React & Typescript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/franm198/FMPortfolio](https://github.com/franm198/FMPortfolio)
 
