@@ -1,3 +1,6 @@
+
+![Minimalist Github Image](https://github.com/user-attachments/assets/2b2d59b6-d681-4061-803b-84519725b904)
+
 <h1 align="center">Hello world 👋, I'm Francesca</h1>
 <h3 align="center">A passionate junior full-stack developer, formerly working in Central London Property.</h3>
 
